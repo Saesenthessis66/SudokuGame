@@ -6,7 +6,12 @@ Playable sudoku written in C++ with SFML
 
 Simply download app folder then launch sudoku.exe
 
+# Navigation
 
+- Main Menu
+- Highscores
+- Difficulty Menu
+- Sudoku Grid
 
 # Controls
 
