@@ -9,13 +9,13 @@ Simply download app folder then launch sudoku.exe
 # Navigation
 
 - Main Menu
-
+  ![](https://github.com/Saesenthessis66/SudokuGame/blob/main/photos/main_menu.png)
 - Highscores
-
+  ![](https://github.com/Saesenthessis66/SudokuGame/blob/main/photos/highscores.png)
 - Difficulty Menu
-
+  ![](https://github.com/Saesenthessis66/SudokuGame/blob/main/photos/diff_menu.png)
 - Sudoku Grid
-
+  ![](https://github.com/Saesenthessis66/SudokuGame/blob/main/photos/grid.png)
 
 # Controls
 
